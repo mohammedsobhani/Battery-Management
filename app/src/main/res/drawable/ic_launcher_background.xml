@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Premium Solid Charcoal Tech Background -->
+    <path
+        android:pathData="M0,0h108v108h-108z"
+        android:fillColor="#0E1013" />
+
+    <!-- Subtle Tech Circuit Lines Grid -->
+    <path
+        android:pathData="M9,0 L9,108 M27,0 L27,108 M45,0 L45,108 M63,0 L63,108 M81,0 L81,108 M99,0 L99,108"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1500FF88" />
+        
+    <path
+        android:pathData="M0,9 L108,9 M0,27 L108,27 M0,45 L108,45 M0,63 L108,63 M0,81 L108,81 M0,99 L108,99"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1500FF88" />
+</vector>

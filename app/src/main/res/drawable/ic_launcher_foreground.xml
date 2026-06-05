@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Battery Top Cap / Terminal -->
+    <path
+        android:pathData="M46,25 L62,25 L62,29 L46,29 Z"
+        android:fillColor="#00FF88" />
+
+    <!-- Outer Battery Glass Shell with solid high-contrast neon green outline -->
+    <path
+        android:pathData="M38,33 C38,31 40,29 42,29 L66,29 C68,29 70,31 70,33 L70,81 C70,83 68,85 66,85 L42,85 C40,85 38,83 38,81 Z"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round"
+        android:strokeColor="#00FF88"
+        android:fillColor="#15121415" />
+
+    <!-- Inner Battery Glow Shadow Layer -->
+    <path
+        android:pathData="M42,33 L66,33 L66,81 L42,81 Z"
+        android:fillColor="#1500FF88" />
+
+    <!-- Sleek Golden Energy Lightning Bolt at Center -->
+    <path
+        android:pathData="M56,38 L43,55 L51,55 L47,73 L62,51 L53,51 Z"
+        android:fillColor="#FFEA00" />
+
+    <!-- Decorative horizontal charge level grid lines -->
+    <path
+        android:pathData="M42,43H66 M42,57H66 M42,71H66"
+        android:strokeWidth="1.2"
+        android:strokeColor="#1800FF88" />
+</vector>

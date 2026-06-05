@@ -1,0 +1,6 @@
+{
+  "name": "VoltMax Battery",
+  "description": "VoltMax is a premium, free battery monitoring, custom charts, charger speed detection, and intelligent AI usage analyzer app designed with a luxury dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
